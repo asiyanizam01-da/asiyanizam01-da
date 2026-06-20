@@ -89,9 +89,6 @@ I'm detail-oriented and genuinely enjoy the moment a messy spreadsheet turns int
 <a href="mailto:asiyanizam01@gmail.com">
   <img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://asiyanizam01-da.github.io">
-  <img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
 
 <br/><br/>
 
