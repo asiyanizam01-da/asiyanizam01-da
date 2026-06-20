@@ -11,6 +11,15 @@
 <img src="https://img.shields.io/badge/Google%20Certified-Data%20Analyst-14b8a6?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft%20Certified-PL--300-a78bfa?style=for-the-badge&logo=microsoft&logoColor=white" />
 
+<br/><br/>
+
+<a href="https://asiyanizam01-da.github.io">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-14b8a6?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://github.com/asiyanizam01-da/asiyanizam01-da/blob/main/assets/Asiya_Nizam_Data_Analyst.pdf">
+  <img src="https://img.shields.io/badge/📄_Resume-a78bfa?style=for-the-badge&logoColor=white" />
+</a>
+
 </div>
 
 <br/>
@@ -21,13 +30,13 @@
 analyst:
   name: Asiya Nizam
   role: Data Analyst · BI Developer
-  based_in: United Kingdom
+  based_in: Dubai, United Arab Emirates
   experience: 3+ years across consulting, operations & enterprise data
   education:
     masters: Engineering Management — University of Greenwich, UK
     bachelors: APJ Abdul Kalam Technological University, Trivandrum
   focus: Cleaning messy data, building dashboards, finding the "so what"
-  currently: Data Analyst Trainee @ MetaClickData Ltd.
+  status: 🟢 Open to new opportunities
 ```
 
 I'm detail-oriented and genuinely enjoy the moment a messy spreadsheet turns into a clear answer. My work spans the full analytics lifecycle — cleaning and querying data, modeling it, and packaging it into dashboards that people actually use to make decisions.
@@ -38,28 +47,20 @@ I'm detail-oriented and genuinely enjoy the moment a messy spreadsheet turns int
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,postgres,vscode&theme=dark" /><br/>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-14b8a6?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Alteryx-0F4365?style=for-the-badge&logo=alteryx&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
-
-</div>
-
-<br/>
-
-## ✦ GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asiyanizam01-da&show_icons=true&hide_border=true&bg_color=0D1117&title_color=14b8a6&icon_color=a78bfa&text_color=c9c9d9&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asiyanizam01-da&layout=compact&hide_border=true&bg_color=0D1117&title_color=14b8a6&text_color=c9c9d9&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asiyanizam01-da&hide_border=true&background=0D1117&ring=14b8a6&fire=a78bfa&currStreakLabel=14b8a6" />
+<img src="https://skillicons.dev/icons?i=python,postgres,vscode&theme=dark&perline=3" height="70" /><br/><br/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/ABAP-1572B6?style=for-the-badge&logo=sap&logoColor=white&logoSize=auto" height="38" />
+<br/><br/>
+<img src="https://img.shields.io/badge/SQL-14b8a6?style=for-the-badge&logo=postgresql&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&logoSize=auto" height="38" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Smartsheet-004F9F?style=for-the-badge&logo=smartsheet&logoColor=white&logoSize=auto" height="38" />
+<img src="https://img.shields.io/badge/Cin7%20Core-a78bfa?style=for-the-badge&logoColor=white&logoSize=auto" height="38" />
 
 </div>
 
@@ -87,6 +88,9 @@ I'm detail-oriented and genuinely enjoy the moment a messy spreadsheet turns int
 </a>
 <a href="mailto:asiyanizam01@gmail.com">
   <img src="https://img.shields.io/badge/Email-14b8a6?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://asiyanizam01-da.github.io">
+  <img src="https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <br/><br/>
