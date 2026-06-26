@@ -16,7 +16,7 @@
 <a href="https://asiyanizam01-da.github.io">
   <img src="https://img.shields.io/badge/🌐_Portfolio-14b8a6?style=for-the-badge&logoColor=white" />
 </a>
-<a href="https://github.com/asiyanizam01-da/asiyanizam01-da/blob/main/assets/Asiya_Nizam_Data_Analyst.pdf">
+<a href="https://github.com/asiyanizam01-da/asiyanizam01-da/blob/main/assets/Asiya_Nizam_Data_Analyst_Resume.pdf">
   <img src="https://img.shields.io/badge/📄_Resume-a78bfa?style=for-the-badge&logoColor=white" />
 </a>
 
